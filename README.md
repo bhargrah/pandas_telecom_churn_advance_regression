@@ -23,8 +23,8 @@ In this project, you will analyse customer-level data of a leading telecom firm,
 
 ## Conculsion 
 
-. VM with tuned hyperparameters produce best result on this dataset with 0.92 accuracy.
-. Random forest also produce good accuracy with 0.91 (default overfit model) and 0.90 with tuned hyperparameters.
-. XGBoost also produce apt accuracy of 0.86 (default overfit model) and 0.85 with tuned hyperparameters.
-. As per our analysis SVM and Random forest produce best accuracy and models can be selected to predict churn data for future dataset or production.
+1) VM with tuned hyperparameters produce best result on this dataset with 0.92 accuracy.
+2) Random forest also produce good accuracy with 0.91 (default overfit model) and 0.90 with tuned hyperparameters.
+3) XGBoost also produce apt accuracy of 0.86 (default overfit model) and 0.85 with tuned hyperparameters.
+4) As per our analysis SVM and Random forest produce best accuracy and models can be selected to predict churn data for future dataset or production.
 
