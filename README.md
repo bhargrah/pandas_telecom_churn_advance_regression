@@ -10,7 +10,9 @@ To reduce customer churn, telecom companies need to predict which customers are 
 In this project, you will analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
 
 ## Model Comparisions 
-|Sr. No.| Model	| Accuracy |	Precision |	Recall |	AUC |	F1 |
+
+| Sr. No.| Model | Accuracy |	Precision |	Recall |	AUC |	F1 |
+| -- | -- | -- | -- | -- | -- | -- |
 | 0 |	SVM (Default)-linear |	0.83 | 0.80 |	0.30 |	0.82 | 0.44 |
 | 1 |	SVM (Default)-rbf |	0.87	| 0.74 |	0.37 |	0.81	| 0.49 |
 | 2 |	SVM( rfb ) [Hyper] |	0.92	| 0.48 | 0.49	| 0.72 | 0.48 |
